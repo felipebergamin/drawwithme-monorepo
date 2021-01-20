@@ -1,0 +1,12 @@
+{
+  "name": "drawwithme",
+  "version": "0.0.1",
+  "private": "true",
+  "author": "Felipe Bergamin <felipebergamin6@gmail.com>",
+  "license": "GPLv3",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
